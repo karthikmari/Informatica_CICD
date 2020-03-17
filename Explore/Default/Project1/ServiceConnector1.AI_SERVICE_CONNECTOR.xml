@@ -1,0 +1,55 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>BbeGoQwg74Rpf6J-gt-378659-2020-03-17T20:28:16.436Z::svc.xml</types1:EntryId>
+      <types1:Name>ServiceConnector1</types1:Name>
+      <types1:MimeType>application/xml+businesssconnector</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>Karthik.Mariappan@signetjewelers.com</types1:CreatedBy>
+      <types1:CreationDate>2020-03-17T20:28:16Z</types1:CreationDate>
+      <types1:ModifiedBy/>
+      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:Entry>
+         <businessConnector xmlns="http://schemas.informatica.com/socrates/data-services/2014/05/business-connector-model.xsd"
+                            agentOnly="false"
+                            debug="false"
+                            displayName="ServiceConnector1"
+                            label=""
+                            name="ServiceConnector1"
+                            uuid="d81e7e0c-1da3-4033-903f-e84ed325d798">
+            <description/>
+            <tags/>
+            <connectionAttributes xmlns="http://schemas.informatica.com/appmodules/screenflow/2014/04/avosConnectors.xsd"/>
+            <actions>
+               <action category=""
+                       failOnError="true"
+                       forSearch="false"
+                       label="Untitled Action"
+                       maxRedirects="100"
+                       name="Untitled Action"
+                       preemptiveAuth="true"
+                       responseEncoding="">
+                  <description/>
+                  <input>
+                     <parameter name="" required="false" testWith="" type="string"/>
+                  </input>
+                  <binding>
+                     <restSimpleBinding multiUsing="semicolonSeparated" url="" verb="GET"/>
+                  </binding>
+                  <output/>
+               </action>
+            </actions>
+            <objects/>
+         </businessConnector>
+      </types1:Entry>
+      <types1:GUID>goWtKim9JQCcfwfA406NuR</types1:GUID>
+      <types1:DisplayName>ServiceConnector1</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2020-03-17T20:33:51.647Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>
