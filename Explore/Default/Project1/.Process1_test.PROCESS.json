@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "86KAvAwCJ5riPHiazjdney",
+      "objectName": "Process1_test",
+      "objectType": "PROCESS",
+      "path": "/Explore/Default/Project1",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "AlMickgpbdoPVm5-gt-2055749-2020-03-25T01:56:43.426Z::pd.xml"
+         }
+      }
+   }
+]
