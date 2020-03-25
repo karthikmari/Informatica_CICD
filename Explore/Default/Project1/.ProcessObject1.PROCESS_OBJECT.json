@@ -1,6 +1,6 @@
 [
    {
-      "objectGuid": "69mfC4CrVoFjV5CRrCcU6S",
+      "objectGuid": "bt4g1CAIryuc0RA7bTrdUO",
       "objectName": "ProcessObject1",
       "objectType": "PROCESS_OBJECT",
       "path": "/Explore/Default/Project1",
@@ -17,7 +17,7 @@
          },
          "objectRefs": [],
          "repoInfo": {
-            "repoHandle": "iPWrRfRW8UBM7zs-gt-5590323-2020-03-25T02:29:28.129Z::po.xml"
+            "repoHandle": "19QqdsQR6kbeJHQ-gt-2173049-2020-03-25T17:41:48.848Z::po.xml"
          }
       }
    }
