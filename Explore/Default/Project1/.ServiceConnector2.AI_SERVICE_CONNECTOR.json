@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "0BYRM5v8xu1h5YYWqGenkW",
+      "objectName": "ServiceConnector2",
+      "objectType": "AI_SERVICE_CONNECTOR",
+      "path": "/Explore/Default/Project1",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "Test",
+            "documentState": "INVALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "OlkZ2sBsoZduD2L-gt-2833568-2020-03-27T12:10:41.657Z::svc.xml"
+         }
+      }
+   }
+]
